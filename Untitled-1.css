@@ -1,0 +1,56 @@
+.html{
+    height: 100vh;
+}
+.container1{
+    position: relative;
+    height: 100vh;
+    background-position: center;
+    background-image: url(2.jpg)
+    
+    
+}
+.container2{
+    position: relative;
+    height: 100vh;
+    background-position: center;
+    background-image: url(1.jpg)
+    
+}
+.container3{
+    position: relative;
+    height: 100vh;
+    background-position: center;
+    background-image: url(3.jpg)
+    
+}
+.container4{
+    position: relative;
+    height: 100vh;
+    background-position: center;
+    background-image: url(4.jpg)
+    
+}
+.body{
+    max-width: 8000px;
+    background-color: rgba(33, 33, 34, 0.133);
+}
+.image1{
+    margin: 40px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.main1{
+    background-color: #eee;
+    
+}
+
+.buttons {
+    position:absolute;
+    bottom: 100px;
+    left: 50%;
+    margin-left: -210px;
+}
+
+
